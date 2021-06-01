@@ -1,0 +1,13 @@
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\x2\bin\Debug\x2.exe.config
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\x2\bin\Debug\x2.exe
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\x2\bin\Debug\x2.pdb
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\x2\obj\Debug\x2.csprojResolveAssemblyReference.cache
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\x2\obj\Debug\x2.exe
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\x2\obj\Debug\x2.pdb
+C:\Users\Mordecai\Desktop\МК2-1\x2\bin\Debug\x2.exe.config
+C:\Users\Mordecai\Desktop\МК2-1\x2\bin\Debug\x2.exe
+C:\Users\Mordecai\Desktop\МК2-1\x2\bin\Debug\x2.pdb
+C:\Users\Mordecai\Desktop\МК2-1\x2\obj\Debug\x2.csprojAssemblyReference.cache
+C:\Users\Mordecai\Desktop\МК2-1\x2\obj\Debug\x2.csproj.CoreCompileInputs.cache
+C:\Users\Mordecai\Desktop\МК2-1\x2\obj\Debug\x2.exe
+C:\Users\Mordecai\Desktop\МК2-1\x2\obj\Debug\x2.pdb

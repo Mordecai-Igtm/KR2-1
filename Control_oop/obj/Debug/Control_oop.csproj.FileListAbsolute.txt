@@ -1,0 +1,13 @@
+c:\users\kireev sergiy\documents\visual studio 2015\Projects\Control_oop\Control_oop\bin\Debug\Control_oop.exe.config
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\Control_oop\obj\Debug\Control_oop.csprojResolveAssemblyReference.cache
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\Control_oop\bin\Debug\Control_oop.exe
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\Control_oop\bin\Debug\Control_oop.pdb
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\Control_oop\obj\Debug\Control_oop.exe
+C:\Users\Kireev Sergiy\documents\visual studio 2015\Projects\Control_oop\Control_oop\obj\Debug\Control_oop.pdb
+C:\Users\Mordecai\Desktop\МК2-1\Control_oop\bin\Debug\Control_oop.exe.config
+C:\Users\Mordecai\Desktop\МК2-1\Control_oop\bin\Debug\Control_oop.exe
+C:\Users\Mordecai\Desktop\МК2-1\Control_oop\bin\Debug\Control_oop.pdb
+C:\Users\Mordecai\Desktop\МК2-1\Control_oop\obj\Debug\Control_oop.csprojAssemblyReference.cache
+C:\Users\Mordecai\Desktop\МК2-1\Control_oop\obj\Debug\Control_oop.csproj.CoreCompileInputs.cache
+C:\Users\Mordecai\Desktop\МК2-1\Control_oop\obj\Debug\Control_oop.exe
+C:\Users\Mordecai\Desktop\МК2-1\Control_oop\obj\Debug\Control_oop.pdb
